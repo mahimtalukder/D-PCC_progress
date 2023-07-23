@@ -2,7 +2,7 @@
 We are trying to run [this](https://github.com/yunhe20/D-PCC) repository.
 ## Main progress    
 
-We have successfully completed the docker environment setup of D-PCC.
+We have successfully completed the docker environment setup of D-PCC. We have setup this environment only for windows docker engine.
 
 ### Docker Environment  setup
 
